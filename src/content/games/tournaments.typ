@@ -1,0 +1,4 @@
+#import "../../globals.typ": *
+
+= Turnamenty
+.
